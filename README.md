@@ -5,7 +5,8 @@ There are times however when the covid api does not return the countries(probabl
 For such cases I have created the PUT / summary endpoint to update the data by force.
 
 There are two other GET endpoints:
-**/summary/countries** - returns all countries /n
+**/summary/countries** - returns all countries
+
 **/country/{countryCode}** - returns country by a specific country code
 
 
