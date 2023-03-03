@@ -1,0 +1,11 @@
+com\example\demo\service\CovidService.class
+com\example\demo\DTOs\GlobalCovidDTO.class
+com\example\demo\persistence\entities\GlobalCovidEntity.class
+com\example\demo\persistence\CountryRepo.class
+com\example\demo\DTOs\SummaryDTO.class
+com\example\demo\persistence\entities\CountryEntity.class
+com\example\demo\DTOs\CountryDTO.class
+com\example\demo\service\RabitMQ.class
+com\example\demo\persistence\GlobalCovidRepo.class
+com\example\demo\rest\RestController.class
+com\example\demo\DimoInterviewAppApplication.class
