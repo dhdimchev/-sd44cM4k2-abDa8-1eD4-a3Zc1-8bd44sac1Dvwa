@@ -23,6 +23,4 @@ Things that probably could be done better:
   
   -add comments and extra styling so it looks more clean
   
-  -adding tests
-  
-    - I had the time to only test the app manually... would have been better to write tests, so i can see if I am missing something.
+  -adding tests to be sure that I am not missing something.
