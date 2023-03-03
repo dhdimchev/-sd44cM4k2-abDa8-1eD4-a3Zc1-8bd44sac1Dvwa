@@ -15,11 +15,14 @@ For running the application I use the following run configuration in IntelliJ.
 ![image](https://user-images.githubusercontent.com/48070027/222758705-095b8955-1b15-4458-996f-166262a61b3b.png)
 
 
-Please keep in mind the whole project was done in around 3 hours as I had to travel and did not have much free time.
+Please keep in mind the whole project was done in around 3-4 hours as I had to travel and did not have much free time.
 
 Things that probably could be done better:
 
   -add exception handling
+  
   -add comments and extra styling so it looks more clean
+  
   -adding tests
+  
     - I had the time to only test the app manually... would have been better to write tests, so i can see if I am missing something.
